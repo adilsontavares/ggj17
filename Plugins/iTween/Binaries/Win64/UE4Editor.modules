@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3195953,
+	"CompatibleChangelist" : 0,
+	"BuildId" : "59c7663e-f7da-4885-9bc5-673a4dc59445",
+	"Modules" : 
+	{
+		"iTween" : "UE4Editor-iTween-6465.dll"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3249277,
+	"CompatibleChangelist" : 3195953,
+	"BuildId" : "6bac0df8-9049-4be1-aeda-8ae09bf1df00",
+	"Modules" : 
+	{
+		"TobiiEyeX" : "UE4Editor-TobiiEyeX.dll"
+	}
+}

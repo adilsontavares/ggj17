@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3249277,
+	"CompatibleChangelist" : 3195953,
+	"BuildId" : "15ea70cc-1f3d-4321-9d50-8a661e153276",
+	"Modules" : 
+	{
+		"TobiiEyeX" : "UE4Editor-TobiiEyeX-Win64-DebugGame.dll"
+	}
+}
